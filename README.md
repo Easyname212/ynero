@@ -26,6 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=easyname212&theme=dark" alt="easyname212" /></p>
 
-<img src="https://raw.githubusercontent.com/easyname212/easyname212/output/snake.svg" alt="Snake animation" />
-
-###

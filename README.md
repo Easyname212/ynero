@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=easyname212&show_icons=true&theme=tokyonight&locale=en" alt="easyname212" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=easyname212&theme=dark" alt="easyname212" /></p>
+
+<img src="https://raw.githubusercontent.com/easyname212/easyname212/output/snake.svg" alt="Snake animation" />
+
+###
